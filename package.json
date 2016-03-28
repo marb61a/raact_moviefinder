@@ -1,0 +1,31 @@
+{
+  "name": "react_moviefind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marb61a/react_moviefinder.git"
+  },
+  "author": "Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marb61a/react_moviefinder/issues"
+  },
+  "devDependencies":{
+  	"browserify":"*",
+  	"flux": "*",
+  	"gulp": "*",
+  	"reactify":"*",
+  	"vinyl-source-stream":"*",
+  	"object-assign":"*"
+  },
+  "dependencies":{
+  	"react":"^0.14.7",
+  	"react-dom":"^0.14.7"
+  },
+  "homepage": "https://github.com/marb61a/react_moviefinder#readme"
+}
